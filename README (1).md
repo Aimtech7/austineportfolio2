@@ -49,6 +49,7 @@ Welcome to the official personal portfolio website of **Austine Makwaka**, a pas
 - **GitHub:** [@Aimtech7](https://github.com/Aimtech7)  
 - **YouTube:** [New Life TV Kitale](https://www.youtube.com/@NEWLIFETVKITALE)  
 - **WhatsApp:** [Chat on WhatsApp](https://wa.me/+254732374557)
+link to github pages:https://aimtech7.github.io/austineportfolio2/
 
 ## 📄 License
 
